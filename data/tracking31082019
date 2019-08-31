@@ -1,0 +1,3 @@
+1;new_session;0;127.0.0.1;;;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36;1567220061;
+1;login;0;127.0.0.1;action=login;http://localhost/phpmyfaq/;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36;1567220065;
+1;open_questions;0;127.0.0.1;action=open;http://localhost/phpmyfaq/;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36;1567220076;
